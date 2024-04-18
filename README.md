@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @a2-max
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning PHP and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rijanneupane.com.np
+- 👋 Hi, I’m Rijan Neupane
+- 👀 I’m interested in Developing Web and Mobile Apps
+- 📫 How to reach me rijan.info.np
 
 <!---
 a2-max/a2-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
