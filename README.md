@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Kathmandu, Nepal &nbsp;•&nbsp; 📱 Mobile App Developer at <b>Yatri Motorcycles</b>
+  📍 Sindhuli, Nepal &nbsp;•&nbsp; 📱 Mobile App Developer at <b>Yatri Motorcycles</b>
 </p>
 
 ---
